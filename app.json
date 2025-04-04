@@ -8,28 +8,28 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "20908081",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "5972f5fa0de92a847f78f6329518db47",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "8176814127:AAFooA64hqqkdFjj1ORRII3_09_gFxrpkI8",
       "required": true
     },
     "MONGO_DB": {
       "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-      "value": "your_mongodb_url_here",
+      "value": "mongodb+srv://rohitgolu836:zktcMCsEGQb2oIt2@cluster0.lygabfn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
 
     "OWNER_ID": {
-      "description": "The user ID of the user whom you would like to add as OWNER",
-      "value": "seperate multiple with space eg 1234 5678",
+      "description": "The user ID of the user whom you would like",
+      "value": "58432 55740",
       "required": true
     },
 
@@ -41,7 +41,7 @@
     
     "FORCE_SUB": {
       "description": "Enter Channel ID (with -100) and make bot admin there",
-      "value": "channel_id_here",
+      "value": "-1002652234715",
       "required": true
     },
     "LOG_GROUP": {
